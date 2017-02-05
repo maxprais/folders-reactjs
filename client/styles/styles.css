@@ -1,0 +1,27 @@
+#main {
+    padding: 20px;
+}
+
+#root {
+    height: 100px;
+    width: 100px;
+}
+
+.folder {
+    border: 1px solid #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    height: 50px;
+    width: 50px;
+}
+
+.folder-expanded {
+    background-color: #878787;
+    box-shadow: 0 0 0 10px #878787;
+}
+
+.folder-closed {
+    background-color: #C1C1C1;
+    box-shadow: 0 0 0 10px #C1C1C1;
+}
+
